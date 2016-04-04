@@ -1,0 +1,1 @@
+puts "protesters are outside"
